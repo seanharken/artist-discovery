@@ -1,0 +1,1365 @@
+{
+  "date": "2026-07-16",
+  "top_25_discovery": [
+    {
+      "uuid": "b58eee98-2c51-48ce-a98d-1c5ab66b7fa6",
+      "name": "GE",
+      "tier": "Tier 1 - Developing",
+      "current_spotify_listeners": 12771,
+      "confirming_platforms": 1,
+      "confirmation_multiplier": 1.0,
+      "score": 10.0,
+      "label_status_flag": false,
+      "label_status": "Unknown",
+      "platforms": {
+        "spotify_listeners": {
+          "status": "confirmed",
+          "latest_delta": 5962,
+          "above_floor": true,
+          "z_score": 10,
+          "recent_series": [
+            11,
+            0,
+            43,
+            50,
+            94,
+            2727,
+            5962
+          ],
+          "days_tracked": 33
+        },
+        "shazam": {
+          "status": "no_data"
+        },
+        "soundcloud_plays": {
+          "status": "no_data"
+        }
+      },
+      "source": "chart-scan"
+    },
+    {
+      "uuid": "733f0889-8492-434f-a17c-20b3abf721b0",
+      "name": "Mcee Zabala",
+      "tier": "Tier 0 - Emerging",
+      "current_spotify_listeners": 7816,
+      "confirming_platforms": 1,
+      "confirmation_multiplier": 1.0,
+      "score": 6.75,
+      "label_status_flag": false,
+      "label_status": "Other Indie / Unsigned",
+      "platforms": {
+        "spotify_listeners": {
+          "status": "confirmed",
+          "latest_delta": 3436,
+          "above_floor": true,
+          "z_score": 6.75,
+          "recent_series": [
+            8,
+            -6,
+            0,
+            82,
+            1288,
+            2351,
+            3436
+          ],
+          "days_tracked": 33
+        },
+        "shazam": {
+          "status": "flat",
+          "latest_delta": 0,
+          "above_floor": false,
+          "z_score": -0.76,
+          "recent_series": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0
+          ],
+          "days_tracked": 33
+        },
+        "soundcloud_plays": {
+          "status": "no_data"
+        }
+      },
+      "source": "chart-scan"
+    },
+    {
+      "uuid": "38159b6b-6bbd-4d5d-87b0-09aa8e3b91e0",
+      "name": "Javier Ferreira",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "current_spotify_listeners": 31518,
+      "confirming_platforms": 1,
+      "confirmation_multiplier": 1.0,
+      "score": 6.14,
+      "label_status_flag": false,
+      "label_status": "Other Indie / Unsigned",
+      "platforms": {
+        "spotify_listeners": {
+          "status": "confirmed",
+          "latest_delta": 10145,
+          "above_floor": true,
+          "z_score": 6.14,
+          "recent_series": [
+            -219,
+            -20,
+            30,
+            3593,
+            5092,
+            3365,
+            10145
+          ],
+          "days_tracked": 33
+        },
+        "shazam": {
+          "status": "no_data"
+        },
+        "soundcloud_plays": {
+          "status": "flat",
+          "latest_delta": 16,
+          "above_floor": false,
+          "z_score": 2.63,
+          "recent_series": [
+            0,
+            0,
+            16,
+            1,
+            10,
+            13,
+            16
+          ],
+          "days_tracked": 33
+        }
+      },
+      "source": "chart-scan"
+    },
+    {
+      "uuid": "91859faf-c250-41d7-be73-5415dff26178",
+      "name": "RISA NARISA",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "current_spotify_listeners": 45072,
+      "confirming_platforms": 1,
+      "confirmation_multiplier": 1.0,
+      "score": 5.53,
+      "label_status_flag": false,
+      "label_status": "Other Indie / Unsigned",
+      "platforms": {
+        "spotify_listeners": {
+          "status": "confirmed",
+          "latest_delta": 5957,
+          "above_floor": true,
+          "z_score": 5.53,
+          "recent_series": [
+            794,
+            907,
+            1028,
+            3037,
+            4474,
+            0,
+            5957
+          ],
+          "days_tracked": 33
+        },
+        "shazam": {
+          "status": "flat",
+          "latest_delta": 0,
+          "above_floor": false,
+          "z_score": -0.67,
+          "recent_series": [
+            0,
+            0,
+            0,
+            34,
+            0,
+            0,
+            0
+          ],
+          "days_tracked": 33
+        },
+        "soundcloud_plays": {
+          "status": "flat",
+          "latest_delta": 0,
+          "above_floor": false,
+          "z_score": 0.0,
+          "recent_series": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "days_tracked": 33
+        }
+      },
+      "source": "chart-scan"
+    },
+    {
+      "uuid": "cc8c08d1-1d16-4dbb-a607-05d2b1a76ff3",
+      "name": "Kai Rosenkranz",
+      "tier": "Tier 0 - Emerging",
+      "current_spotify_listeners": 6133,
+      "confirming_platforms": 1,
+      "confirmation_multiplier": 1.0,
+      "score": 5.19,
+      "label_status_flag": false,
+      "label_status": "Unknown",
+      "platforms": {
+        "spotify_listeners": {
+          "status": "confirmed",
+          "latest_delta": 2096,
+          "above_floor": true,
+          "z_score": 5.19,
+          "recent_series": [
+            0,
+            -4,
+            845,
+            797,
+            677,
+            1649,
+            2096
+          ],
+          "days_tracked": 33
+        },
+        "shazam": {
+          "status": "no_data"
+        },
+        "soundcloud_plays": {
+          "status": "flat",
+          "latest_delta": 4,
+          "above_floor": false,
+          "z_score": 1.04,
+          "recent_series": [
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            4
+          ],
+          "days_tracked": 33
+        }
+      },
+      "source": "chart-scan"
+    },
+    {
+      "uuid": "268e9467-7853-4a99-aed0-d71b0a0fec84",
+      "name": "Brian Irvine",
+      "tier": "Tier 0 - Emerging",
+      "current_spotify_listeners": 7382,
+      "confirming_platforms": 1,
+      "confirmation_multiplier": 1.0,
+      "score": 4.93,
+      "label_status_flag": false,
+      "label_status": "Unknown",
+      "platforms": {
+        "spotify_listeners": {
+          "status": "confirmed",
+          "latest_delta": 1984,
+          "above_floor": true,
+          "z_score": 4.93,
+          "recent_series": [
+            18,
+            204,
+            166,
+            1721,
+            970,
+            684,
+            1984
+          ],
+          "days_tracked": 33
+        },
+        "shazam": {
+          "status": "flat",
+          "latest_delta": 0,
+          "above_floor": false,
+          "z_score": -0.5,
+          "recent_series": [
+            0,
+            1,
+            0,
+            79,
+            10,
+            0,
+            0
+          ],
+          "days_tracked": 33
+        },
+        "soundcloud_plays": {
+          "status": "no_data"
+        }
+      },
+      "source": "chart-scan"
+    },
+    {
+      "uuid": "c715af70-3bcd-4a6c-af54-acc3861b1277",
+      "name": "GsKan",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "current_spotify_listeners": 47015,
+      "confirming_platforms": 1,
+      "confirmation_multiplier": 1.0,
+      "score": 4.79,
+      "label_status_flag": false,
+      "label_status": "Other Indie / Unsigned",
+      "platforms": {
+        "spotify_listeners": {
+          "status": "confirmed",
+          "latest_delta": 8784,
+          "above_floor": true,
+          "z_score": 4.79,
+          "recent_series": [
+            1694,
+            0,
+            3821,
+            4023,
+            6957,
+            3504,
+            8784
+          ],
+          "days_tracked": 33
+        },
+        "shazam": {
+          "status": "no_data"
+        },
+        "soundcloud_plays": {
+          "status": "no_data"
+        }
+      },
+      "source": "chart-scan"
+    },
+    {
+      "uuid": "8108ca04-4e19-4499-baf7-0cebfdbfac84",
+      "name": "The Institute of Quackology",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "current_spotify_listeners": 30034,
+      "confirming_platforms": 1,
+      "confirmation_multiplier": 1.0,
+      "score": 4.52,
+      "label_status_flag": false,
+      "label_status": "Unknown",
+      "platforms": {
+        "spotify_listeners": {
+          "status": "confirmed",
+          "latest_delta": 8352,
+          "above_floor": true,
+          "z_score": 4.52,
+          "recent_series": [
+            67,
+            780,
+            3753,
+            3671,
+            4523,
+            5106,
+            8352
+          ],
+          "days_tracked": 22
+        },
+        "shazam": {
+          "status": "no_data"
+        },
+        "soundcloud_plays": {
+          "status": "no_data"
+        }
+      },
+      "source": "chart-scan"
+    },
+    {
+      "uuid": "71a63167-4823-4783-a5d3-f030cf40fe3d",
+      "name": "STARIRAYS",
+      "tier": "Tier 0 - Emerging",
+      "current_spotify_listeners": 3778,
+      "confirming_platforms": 1,
+      "confirmation_multiplier": 1.0,
+      "score": 4.17,
+      "label_status_flag": false,
+      "label_status": "Other Indie / Unsigned",
+      "platforms": {
+        "spotify_listeners": {
+          "status": "confirmed",
+          "latest_delta": 1150,
+          "above_floor": true,
+          "z_score": 4.17,
+          "recent_series": [
+            4,
+            51,
+            262,
+            1166,
+            488,
+            607,
+            1150
+          ],
+          "days_tracked": 33
+        },
+        "shazam": {
+          "status": "flat",
+          "latest_delta": 0,
+          "above_floor": false,
+          "z_score": 0.0,
+          "recent_series": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "days_tracked": 33
+        },
+        "soundcloud_plays": {
+          "status": "flat",
+          "latest_delta": 0,
+          "above_floor": false,
+          "z_score": 0.0,
+          "recent_series": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "days_tracked": 33
+        }
+      },
+      "source": "chart-scan"
+    },
+    {
+      "uuid": "2f98384a-76ac-47ac-90ed-c3eb82b494c8",
+      "name": "GXLDmine",
+      "tier": "Tier 1 - Developing",
+      "current_spotify_listeners": 12902,
+      "confirming_platforms": 1,
+      "confirmation_multiplier": 1.0,
+      "score": 3.55,
+      "label_status_flag": false,
+      "label_status": "Unknown",
+      "platforms": {
+        "spotify_listeners": {
+          "status": "confirmed",
+          "latest_delta": 2427,
+          "above_floor": true,
+          "z_score": 3.55,
+          "recent_series": [
+            -8,
+            8,
+            716,
+            2431,
+            1939,
+            1407,
+            2427
+          ],
+          "days_tracked": 33
+        },
+        "shazam": {
+          "status": "flat",
+          "latest_delta": 0,
+          "above_floor": false,
+          "z_score": -0.28,
+          "recent_series": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "days_tracked": 33
+        },
+        "soundcloud_plays": {
+          "status": "flat",
+          "latest_delta": 0,
+          "above_floor": false,
+          "z_score": -1.15,
+          "recent_series": [
+            0,
+            27,
+            6,
+            5,
+            0,
+            0,
+            0
+          ],
+          "days_tracked": 33
+        }
+      },
+      "source": "chart-scan"
+    },
+    {
+      "uuid": "2a37d54a-e1fe-42b6-b238-0c58eb49e1b8",
+      "name": "Mark Haze",
+      "tier": "Tier 1 - Developing",
+      "current_spotify_listeners": 18330,
+      "confirming_platforms": 1,
+      "confirmation_multiplier": 1.0,
+      "score": 3.4,
+      "label_status_flag": false,
+      "label_status": "Unknown",
+      "platforms": {
+        "spotify_listeners": {
+          "status": "confirmed",
+          "latest_delta": 2520,
+          "above_floor": true,
+          "z_score": 3.4,
+          "recent_series": [
+            1614,
+            1588,
+            1435,
+            1414,
+            1553,
+            0,
+            2520
+          ],
+          "days_tracked": 33
+        },
+        "shazam": {
+          "status": "flat",
+          "latest_delta": 0,
+          "above_floor": false,
+          "z_score": -0.28,
+          "recent_series": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ],
+          "days_tracked": 33
+        },
+        "soundcloud_plays": {
+          "status": "flat",
+          "latest_delta": 0,
+          "above_floor": false,
+          "z_score": 0.0,
+          "recent_series": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "days_tracked": 33
+        }
+      },
+      "source": "chart-scan"
+    },
+    {
+      "uuid": "be20a626-9d22-40b5-b1b6-15a3a0785587",
+      "name": "Arnav Maggo",
+      "tier": "Tier 0 - Emerging",
+      "current_spotify_listeners": 9226,
+      "confirming_platforms": 1,
+      "confirmation_multiplier": 1.0,
+      "score": 3.26,
+      "label_status_flag": false,
+      "label_status": "Other Indie / Unsigned",
+      "platforms": {
+        "spotify_listeners": {
+          "status": "confirmed",
+          "latest_delta": 2380,
+          "above_floor": true,
+          "z_score": 3.26,
+          "recent_series": [
+            53,
+            83,
+            109,
+            643,
+            2525,
+            2619,
+            2380
+          ],
+          "days_tracked": 33
+        },
+        "shazam": {
+          "status": "flat",
+          "latest_delta": 0,
+          "above_floor": false,
+          "z_score": -0.19,
+          "recent_series": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            40,
+            0
+          ],
+          "days_tracked": 33
+        },
+        "soundcloud_plays": {
+          "status": "flat",
+          "latest_delta": 0,
+          "above_floor": false,
+          "z_score": 0.0,
+          "recent_series": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "days_tracked": 33
+        }
+      },
+      "source": "chart-scan"
+    },
+    {
+      "uuid": "468e0825-c4d5-433a-8ce7-888ddb148b36",
+      "name": "TSNR",
+      "tier": "Tier 1 - Developing",
+      "current_spotify_listeners": 29653,
+      "confirming_platforms": 1,
+      "confirmation_multiplier": 1.0,
+      "score": 3.23,
+      "label_status_flag": false,
+      "label_status": "Unknown",
+      "platforms": {
+        "spotify_listeners": {
+          "status": "confirmed",
+          "latest_delta": 5835,
+          "above_floor": true,
+          "z_score": 3.23,
+          "recent_series": [
+            26,
+            30,
+            39,
+            6783,
+            4701,
+            3879,
+            5835
+          ],
+          "days_tracked": 33
+        },
+        "shazam": {
+          "status": "flat",
+          "latest_delta": 0,
+          "above_floor": false,
+          "z_score": 0.0,
+          "recent_series": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "days_tracked": 33
+        },
+        "soundcloud_plays": {
+          "status": "flat",
+          "latest_delta": 0,
+          "above_floor": false,
+          "z_score": -1.05,
+          "recent_series": [
+            23,
+            12,
+            0,
+            21,
+            0,
+            20,
+            0
+          ],
+          "days_tracked": 33
+        }
+      },
+      "source": "chart-scan"
+    },
+    {
+      "uuid": "1f6b070e-c107-4b82-bd8a-333486d9b169",
+      "name": "Markus Fackler",
+      "tier": "Tier 0 - Emerging",
+      "current_spotify_listeners": 2957,
+      "confirming_platforms": 1,
+      "confirmation_multiplier": 1.0,
+      "score": 3.12,
+      "label_status_flag": false,
+      "label_status": "Unknown",
+      "platforms": {
+        "spotify_listeners": {
+          "status": "confirmed",
+          "latest_delta": 887,
+          "above_floor": true,
+          "z_score": 3.12,
+          "recent_series": [
+            0,
+            0,
+            27,
+            1344,
+            505,
+            0,
+            887
+          ],
+          "days_tracked": 33
+        },
+        "shazam": {
+          "status": "flat",
+          "latest_delta": 0,
+          "above_floor": false,
+          "z_score": -0.55,
+          "recent_series": [
+            0,
+            0,
+            0,
+            0,
+            12,
+            11,
+            0
+          ],
+          "days_tracked": 33
+        },
+        "soundcloud_plays": {
+          "status": "no_data"
+        }
+      },
+      "source": "chart-scan"
+    },
+    {
+      "uuid": "cb7ee539-1844-4496-b53b-679044808bc8",
+      "name": "Mutombo Music",
+      "tier": "Tier 0 - Emerging",
+      "current_spotify_listeners": 9327,
+      "confirming_platforms": 1,
+      "confirmation_multiplier": 1.0,
+      "score": 3.09,
+      "label_status_flag": false,
+      "label_status": "Other Indie / Unsigned",
+      "platforms": {
+        "spotify_listeners": {
+          "status": "confirmed",
+          "latest_delta": 2165,
+          "above_floor": true,
+          "z_score": 3.09,
+          "recent_series": [
+            748,
+            1136,
+            1340,
+            2927,
+            0,
+            0,
+            2165
+          ],
+          "days_tracked": 33
+        },
+        "shazam": {
+          "status": "no_data"
+        },
+        "soundcloud_plays": {
+          "status": "no_data"
+        }
+      },
+      "source": "chart-scan"
+    },
+    {
+      "uuid": "9a7ffca9-5ac8-43dd-af03-935b79863f15",
+      "name": "De confident Dj",
+      "tier": "Tier 1 - Developing",
+      "current_spotify_listeners": 13297,
+      "confirming_platforms": 1,
+      "confirmation_multiplier": 1.0,
+      "score": 3.04,
+      "label_status_flag": false,
+      "label_status": "Unknown",
+      "platforms": {
+        "spotify_listeners": {
+          "status": "confirmed",
+          "latest_delta": 3242,
+          "above_floor": true,
+          "z_score": 3.04,
+          "recent_series": [
+            -1,
+            -1,
+            0,
+            2715,
+            1331,
+            1631,
+            3242
+          ],
+          "days_tracked": 12
+        },
+        "shazam": {
+          "status": "no_data"
+        },
+        "soundcloud_plays": {
+          "status": "low_confidence",
+          "latest_delta": 0,
+          "above_floor": false,
+          "z_score": null,
+          "recent_series": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "days_tracked": 10
+        }
+      },
+      "source": "chart-scan"
+    },
+    {
+      "uuid": "31d4ef69-38be-4a49-8716-67eab2e80763",
+      "name": "De La Plata",
+      "tier": "Tier 0 - Emerging",
+      "current_spotify_listeners": 9831,
+      "confirming_platforms": 1,
+      "confirmation_multiplier": 1.0,
+      "score": 2.93,
+      "label_status_flag": false,
+      "label_status": "Other Indie / Unsigned",
+      "platforms": {
+        "spotify_listeners": {
+          "status": "confirmed",
+          "latest_delta": 1959,
+          "above_floor": true,
+          "z_score": 2.93,
+          "recent_series": [
+            -2,
+            -23,
+            693,
+            1578,
+            1355,
+            1146,
+            1959
+          ],
+          "days_tracked": 33
+        },
+        "shazam": {
+          "status": "no_data"
+        },
+        "soundcloud_plays": {
+          "status": "no_data"
+        }
+      },
+      "source": "chart-scan"
+    },
+    {
+      "uuid": "81c223b9-73c7-4e36-9aec-f1db6daf79e2",
+      "name": "Pastor Shola Okodugha",
+      "tier": "Tier 1 - Developing",
+      "current_spotify_listeners": 19928,
+      "confirming_platforms": 1,
+      "confirmation_multiplier": 1.0,
+      "score": 2.93,
+      "label_status_flag": false,
+      "label_status": "Unknown",
+      "platforms": {
+        "spotify_listeners": {
+          "status": "confirmed",
+          "latest_delta": 3034,
+          "above_floor": true,
+          "z_score": 2.93,
+          "recent_series": [
+            -100,
+            -131,
+            46,
+            4091,
+            2134,
+            2349,
+            3034
+          ],
+          "days_tracked": 33
+        },
+        "shazam": {
+          "status": "no_data"
+        },
+        "soundcloud_plays": {
+          "status": "no_data"
+        }
+      },
+      "source": "chart-scan"
+    },
+    {
+      "uuid": "a607736a-35fd-4c5e-a6bd-f438eaffe7da",
+      "name": "AMALIE COPPA",
+      "tier": "Tier 0 - Emerging",
+      "current_spotify_listeners": 9536,
+      "confirming_platforms": 1,
+      "confirmation_multiplier": 1.0,
+      "score": 2.89,
+      "label_status_flag": false,
+      "label_status": "Other Indie / Unsigned",
+      "platforms": {
+        "spotify_listeners": {
+          "status": "confirmed",
+          "latest_delta": 1537,
+          "above_floor": true,
+          "z_score": 2.89,
+          "recent_series": [
+            1104,
+            1062,
+            939,
+            1015,
+            856,
+            0,
+            1537
+          ],
+          "days_tracked": 33
+        },
+        "shazam": {
+          "status": "no_data"
+        },
+        "soundcloud_plays": {
+          "status": "flat",
+          "latest_delta": 0,
+          "above_floor": false,
+          "z_score": -0.38,
+          "recent_series": [
+            1,
+            2,
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          "days_tracked": 33
+        }
+      },
+      "source": "chart-scan"
+    },
+    {
+      "uuid": "70f53e76-7e80-473d-b383-fa7dabcd32c2",
+      "name": "JULIA DANTT",
+      "tier": "Tier 0 - Emerging",
+      "current_spotify_listeners": 6449,
+      "confirming_platforms": 1,
+      "confirmation_multiplier": 1.0,
+      "score": 2.71,
+      "label_status_flag": false,
+      "label_status": "Other Indie / Unsigned",
+      "platforms": {
+        "spotify_listeners": {
+          "status": "confirmed",
+          "latest_delta": 1241,
+          "above_floor": true,
+          "z_score": 2.71,
+          "recent_series": [
+            -19,
+            -17,
+            -10,
+            1047,
+            1530,
+            1313,
+            1241
+          ],
+          "days_tracked": 33
+        },
+        "shazam": {
+          "status": "no_data"
+        },
+        "soundcloud_plays": {
+          "status": "flat",
+          "latest_delta": 5,
+          "above_floor": false,
+          "z_score": 2.92,
+          "recent_series": [
+            1,
+            0,
+            0,
+            0,
+            2,
+            0,
+            5
+          ],
+          "days_tracked": 33
+        }
+      },
+      "source": "chart-scan"
+    },
+    {
+      "uuid": "d9b07a19-d0e8-48d5-baf7-b8c5cfa588f2",
+      "name": "Eve Lauren",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "current_spotify_listeners": 39483,
+      "confirming_platforms": 1,
+      "confirmation_multiplier": 1.0,
+      "score": 2.71,
+      "label_status_flag": false,
+      "label_status": "Unknown",
+      "platforms": {
+        "spotify_listeners": {
+          "status": "confirmed",
+          "latest_delta": 6549,
+          "above_floor": true,
+          "z_score": 2.71,
+          "recent_series": [
+            -171,
+            -158,
+            -212,
+            8718,
+            6484,
+            4934,
+            6549
+          ],
+          "days_tracked": 33
+        },
+        "shazam": {
+          "status": "no_data"
+        },
+        "soundcloud_plays": {
+          "status": "flat",
+          "latest_delta": 34,
+          "above_floor": false,
+          "z_score": -0.28,
+          "recent_series": [
+            29,
+            0,
+            0,
+            183,
+            0,
+            81,
+            34
+          ],
+          "days_tracked": 33
+        }
+      },
+      "source": "chart-scan"
+    },
+    {
+      "uuid": "cd27cce9-f060-4cde-a37f-aecfb2e49039",
+      "name": "RUDYARD",
+      "tier": "Tier 0 - Emerging",
+      "current_spotify_listeners": 3045,
+      "confirming_platforms": 1,
+      "confirmation_multiplier": 1.0,
+      "score": 2.69,
+      "label_status_flag": false,
+      "label_status": "Other Indie / Unsigned",
+      "platforms": {
+        "spotify_listeners": {
+          "status": "confirmed",
+          "latest_delta": 487,
+          "above_floor": true,
+          "z_score": 2.69,
+          "recent_series": [
+            3,
+            34,
+            469,
+            480,
+            457,
+            383,
+            487
+          ],
+          "days_tracked": 33
+        },
+        "shazam": {
+          "status": "flat",
+          "latest_delta": 0,
+          "above_floor": false,
+          "z_score": 0.0,
+          "recent_series": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "days_tracked": 33
+        },
+        "soundcloud_plays": {
+          "status": "flat",
+          "latest_delta": 0,
+          "above_floor": false,
+          "z_score": 0.0,
+          "recent_series": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "days_tracked": 33
+        }
+      },
+      "source": "chart-scan"
+    },
+    {
+      "uuid": "d9733016-d0c7-411d-bfad-ffbb0b45fd38",
+      "name": "Chaton",
+      "tier": "Tier 0 - Emerging",
+      "current_spotify_listeners": 2612,
+      "confirming_platforms": 2,
+      "confirmation_multiplier": 1.5,
+      "score": 2.67,
+      "label_status_flag": false,
+      "label_status": "Unknown",
+      "platforms": {
+        "spotify_listeners": {
+          "status": "floor_only",
+          "latest_delta": 780,
+          "above_floor": true,
+          "z_score": 1.28,
+          "recent_series": [
+            1,
+            -26,
+            0,
+            0,
+            1136,
+            583,
+            780
+          ],
+          "days_tracked": 33
+        },
+        "shazam": {
+          "status": "flat",
+          "latest_delta": 0,
+          "above_floor": false,
+          "z_score": 0.0,
+          "recent_series": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "days_tracked": 33
+        },
+        "soundcloud_plays": {
+          "status": "floor_only",
+          "latest_delta": 244,
+          "above_floor": true,
+          "z_score": 0.06,
+          "recent_series": [
+            276,
+            74,
+            82,
+            448,
+            177,
+            41,
+            244
+          ],
+          "days_tracked": 33
+        }
+      },
+      "source": "chart-scan"
+    },
+    {
+      "uuid": "3fada10b-0812-4be0-bd21-96584719725a",
+      "name": "D W/ The Gumby",
+      "tier": "Tier 0 - Emerging",
+      "current_spotify_listeners": 2674,
+      "confirming_platforms": 1,
+      "confirmation_multiplier": 1.0,
+      "score": 2.57,
+      "label_status_flag": false,
+      "label_status": "Other Indie / Unsigned",
+      "platforms": {
+        "spotify_listeners": {
+          "status": "confirmed",
+          "latest_delta": 1332,
+          "above_floor": true,
+          "z_score": 2.57,
+          "recent_series": [
+            -1,
+            1,
+            0,
+            0,
+            1313,
+            0,
+            1332
+          ],
+          "days_tracked": 33
+        },
+        "shazam": {
+          "status": "flat",
+          "latest_delta": 0,
+          "above_floor": false,
+          "z_score": -0.19,
+          "recent_series": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "days_tracked": 33
+        },
+        "soundcloud_plays": {
+          "status": "flat",
+          "latest_delta": 0,
+          "above_floor": false,
+          "z_score": -0.44,
+          "recent_series": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "days_tracked": 33
+        }
+      },
+      "source": "chart-scan"
+    },
+    {
+      "uuid": "1f4cd608-3d5c-4a93-9e47-5e894331e55a",
+      "name": "Los Kendy",
+      "tier": "Tier 0 - Emerging",
+      "current_spotify_listeners": 7029,
+      "confirming_platforms": 1,
+      "confirmation_multiplier": 1.0,
+      "score": 2.54,
+      "label_status_flag": false,
+      "label_status": "Other Indie / Unsigned",
+      "platforms": {
+        "spotify_listeners": {
+          "status": "confirmed",
+          "latest_delta": 1404,
+          "above_floor": true,
+          "z_score": 2.54,
+          "recent_series": [
+            -11,
+            -11,
+            -3,
+            1481,
+            1892,
+            1281,
+            1404
+          ],
+          "days_tracked": 33
+        },
+        "shazam": {
+          "status": "flat",
+          "latest_delta": 0,
+          "above_floor": false,
+          "z_score": -0.24,
+          "recent_series": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "days_tracked": 33
+        },
+        "soundcloud_plays": {
+          "status": "no_data"
+        }
+      },
+      "source": "chart-scan"
+    }
+  ],
+  "watchlist_status": [
+    {
+      "uuid": "f9c0d609-8d6a-43ec-a2bf-db625a89ddfb",
+      "name": "Faith Leazae",
+      "tier": "watchlist (untiered)",
+      "score": 0,
+      "source": "watchlist",
+      "note": "guaranteed inclusion"
+    },
+    {
+      "uuid": "e17cffef-89d8-443e-947b-811aba111d80",
+      "name": "Ayegy",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "current_spotify_listeners": 41999,
+      "confirming_platforms": 1,
+      "confirmation_multiplier": 1.0,
+      "score": 2.27,
+      "label_status_flag": false,
+      "label_status": "Unknown",
+      "platforms": {
+        "spotify_listeners": {
+          "status": "flat",
+          "latest_delta": -184,
+          "above_floor": false,
+          "z_score": -0.57,
+          "recent_series": [
+            -57,
+            0,
+            -342,
+            -221,
+            -9,
+            -97,
+            -184
+          ],
+          "days_tracked": 33
+        },
+        "shazam": {
+          "status": "flat",
+          "latest_delta": 0,
+          "above_floor": false,
+          "z_score": -0.32,
+          "recent_series": [
+            0,
+            0,
+            1,
+            63,
+            143,
+            21,
+            0
+          ],
+          "days_tracked": 33
+        },
+        "soundcloud_plays": {
+          "status": "floor_only",
+          "latest_delta": 539,
+          "above_floor": true,
+          "z_score": 2.27,
+          "recent_series": [
+            0,
+            472,
+            0,
+            262,
+            0,
+            0,
+            539
+          ],
+          "days_tracked": 33
+        }
+      },
+      "source": "watchlist"
+    },
+    {
+      "uuid": "c3625737-2597-4090-924a-d898112ff819",
+      "name": "Nirosta Steel",
+      "tier": "watchlist (untiered)",
+      "score": 0,
+      "source": "watchlist",
+      "note": "guaranteed inclusion"
+    },
+    {
+      "uuid": "0429fb90-d544-452a-bf54-1ab289b1a678",
+      "name": "Fred again..",
+      "tier": "watchlist (untiered)",
+      "score": 0,
+      "source": "watchlist",
+      "note": "guaranteed inclusion"
+    },
+    {
+      "uuid": "c803da56-c6bd-4c61-addb-f1063544a1a2",
+      "name": "UMEK",
+      "tier": "watchlist (untiered)",
+      "score": 0,
+      "source": "watchlist",
+      "note": "guaranteed inclusion"
+    }
+  ]
+}

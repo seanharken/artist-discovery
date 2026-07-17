@@ -1,0 +1,870 @@
+{
+  "date": "2026-07-17",
+  "artists": [
+    {
+      "name": "Dakota Poorman",
+      "genre": "Country",
+      "score": 2.45,
+      "maturity": 33,
+      "triggers": [
+        "spotify"
+      ],
+      "why": "Cleared floor on spotify (Spotify monthly listeners +1097). Single platform, not yet cross-confirmed.",
+      "metrics": [
+        {
+          "label": "Spotify monthly listeners",
+          "value": "4535",
+          "delta": "+3924",
+          "spark": [
+            611,
+            613,
+            746,
+            1297,
+            1297,
+            3438,
+            4535
+          ]
+        }
+      ],
+      "spark": [
+        611,
+        613,
+        746,
+        1297,
+        1297,
+        3438,
+        4535
+      ],
+      "flags": [],
+      "spotify_url": "https://open.spotify.com/artist/45DuyEZsgASSLau8r0BUYm"
+    },
+    {
+      "name": "Stolen Valor",
+      "genre": "Electronic",
+      "score": 2.36,
+      "maturity": 33,
+      "triggers": [
+        "spotify"
+      ],
+      "why": "Cleared floor on spotify (Spotify monthly listeners +9481). Single platform, not yet cross-confirmed.",
+      "metrics": [
+        {
+          "label": "Spotify monthly listeners",
+          "value": "48749",
+          "delta": "+48463",
+          "spark": [
+            286,
+            460,
+            11695,
+            22453,
+            30650,
+            39268,
+            48749
+          ]
+        }
+      ],
+      "spark": [
+        286,
+        460,
+        11695,
+        22453,
+        30650,
+        39268,
+        48749
+      ],
+      "flags": [],
+      "spotify_url": "https://open.spotify.com/artist/74RuyNcMXz3vdn6feUkp6Y"
+    },
+    {
+      "name": "Cole Hartley",
+      "genre": "Country",
+      "score": 2.21,
+      "maturity": 33,
+      "triggers": [
+        "spotify"
+      ],
+      "why": "Cleared floor on spotify (Spotify monthly listeners +3289). Single platform, not yet cross-confirmed.",
+      "metrics": [
+        {
+          "label": "Spotify monthly listeners",
+          "value": "21541",
+          "delta": "+13829",
+          "spark": [
+            7712,
+            8118,
+            9254,
+            11955,
+            11955,
+            18252,
+            21541
+          ]
+        }
+      ],
+      "spark": [
+        7712,
+        8118,
+        9254,
+        11955,
+        11955,
+        18252,
+        21541
+      ],
+      "flags": [],
+      "spotify_url": "https://open.spotify.com/artist/6iK95isn4LQFaJR4LeUIlD"
+    },
+    {
+      "name": "Lilly Hart",
+      "genre": "Pop",
+      "score": 2.05,
+      "maturity": 33,
+      "triggers": [
+        "spotify"
+      ],
+      "why": "Cleared floor on spotify (Spotify monthly listeners +1781). Single platform, not yet cross-confirmed.",
+      "metrics": [
+        {
+          "label": "Spotify monthly listeners",
+          "value": "15961",
+          "delta": "+10554",
+          "spark": [
+            5407,
+            6723,
+            8689,
+            10379,
+            11678,
+            14180,
+            15961
+          ]
+        }
+      ],
+      "spark": [
+        5407,
+        6723,
+        8689,
+        10379,
+        11678,
+        14180,
+        15961
+      ],
+      "flags": [],
+      "spotify_url": "https://open.spotify.com/artist/2Vm9OsgWjGKAvH6Iu5gj5M"
+    },
+    {
+      "name": "T\u00d8NY",
+      "genre": "Pop",
+      "score": 1.93,
+      "maturity": 33,
+      "triggers": [
+        "spotify"
+      ],
+      "why": "Cleared floor on spotify (Spotify monthly listeners +2834). Single platform, not yet cross-confirmed.",
+      "metrics": [
+        {
+          "label": "Spotify monthly listeners",
+          "value": "30818",
+          "delta": "+17362",
+          "spark": [
+            13456,
+            16604,
+            19807,
+            22607,
+            24993,
+            27984,
+            30818
+          ]
+        }
+      ],
+      "spark": [
+        13456,
+        16604,
+        19807,
+        22607,
+        24993,
+        27984,
+        30818
+      ],
+      "flags": [],
+      "spotify_url": "https://open.spotify.com/artist/1szeiCrfUzdjViXad3UBLi"
+    },
+    {
+      "name": "Rackelle",
+      "genre": "Pop",
+      "score": 1.65,
+      "maturity": 33,
+      "triggers": [
+        "spotify"
+      ],
+      "why": "Cleared floor on spotify (Spotify monthly listeners +2424). Single platform, not yet cross-confirmed.",
+      "metrics": [
+        {
+          "label": "Spotify monthly listeners",
+          "value": "34932",
+          "delta": "+14314",
+          "spark": [
+            20618,
+            23153,
+            25615,
+            25615,
+            30278,
+            32508,
+            34932
+          ]
+        }
+      ],
+      "spark": [
+        20618,
+        23153,
+        25615,
+        25615,
+        30278,
+        32508,
+        34932
+      ],
+      "flags": [],
+      "spotify_url": "https://open.spotify.com/artist/5RUZSiHlbdwSjfPqfGA036"
+    },
+    {
+      "name": "jakehinze",
+      "genre": "Electronic",
+      "score": 1.56,
+      "maturity": 33,
+      "triggers": [
+        "spotify"
+      ],
+      "why": "Cleared floor on spotify (Spotify monthly listeners +1005). Single platform, not yet cross-confirmed.",
+      "metrics": [
+        {
+          "label": "Spotify monthly listeners",
+          "value": "6497",
+          "delta": "+6202",
+          "spark": [
+            295,
+            368,
+            2914,
+            3821,
+            4656,
+            5492,
+            6497
+          ]
+        }
+      ],
+      "spark": [
+        295,
+        368,
+        2914,
+        3821,
+        4656,
+        5492,
+        6497
+      ],
+      "flags": [],
+      "spotify_url": "https://open.spotify.com/artist/4EU7FTNUdRmmTDu1wZlScG"
+    },
+    {
+      "name": "Rico Beats",
+      "genre": "Hip Hop",
+      "score": 1.54,
+      "maturity": 33,
+      "triggers": [
+        "spotify"
+      ],
+      "why": "Cleared floor on spotify (Spotify monthly listeners +1489). Single platform, not yet cross-confirmed.",
+      "metrics": [
+        {
+          "label": "Spotify monthly listeners",
+          "value": "17905",
+          "delta": "+9787",
+          "spark": [
+            8118,
+            9543,
+            11052,
+            13193,
+            14756,
+            16416,
+            17905
+          ]
+        }
+      ],
+      "spark": [
+        8118,
+        9543,
+        11052,
+        13193,
+        14756,
+        16416,
+        17905
+      ],
+      "flags": [],
+      "spotify_url": "https://open.spotify.com/artist/30iAbaeI5y7xhUxj1WRnIb"
+    },
+    {
+      "name": "Redrago",
+      "genre": "Electronic",
+      "score": 1.13,
+      "maturity": 33,
+      "triggers": [
+        "spotify"
+      ],
+      "why": "Cleared floor on spotify (Spotify monthly listeners +1396). Single platform, not yet cross-confirmed.",
+      "metrics": [
+        {
+          "label": "Spotify monthly listeners",
+          "value": "14254",
+          "delta": "+10421",
+          "spark": [
+            3833,
+            4586,
+            8994,
+            10614,
+            11497,
+            12858,
+            14254
+          ]
+        }
+      ],
+      "spark": [
+        3833,
+        4586,
+        8994,
+        10614,
+        11497,
+        12858,
+        14254
+      ],
+      "flags": [],
+      "spotify_url": "https://open.spotify.com/artist/1xK643wA7N0ym7AhaEY2iB"
+    },
+    {
+      "name": "Crown Vic",
+      "genre": "Metal",
+      "score": 1.02,
+      "maturity": 33,
+      "triggers": [
+        "spotify"
+      ],
+      "why": "Cleared floor on spotify (Spotify monthly listeners +1834). Single platform, not yet cross-confirmed.",
+      "metrics": [
+        {
+          "label": "Spotify monthly listeners",
+          "value": "14641",
+          "delta": "+14340",
+          "spark": [
+            301,
+            358,
+            7138,
+            9287,
+            10775,
+            12807,
+            14641
+          ]
+        }
+      ],
+      "spark": [
+        301,
+        358,
+        7138,
+        9287,
+        10775,
+        12807,
+        14641
+      ],
+      "flags": [],
+      "spotify_url": "https://open.spotify.com/artist/24E6oL7tawuuat7wVaK5VV"
+    },
+    {
+      "name": "Adam Rubenstein",
+      "genre": "Rock",
+      "score": 0.71,
+      "maturity": 33,
+      "triggers": [
+        "spotify"
+      ],
+      "why": "Cleared floor on spotify (Spotify monthly listeners +1027). Single platform, not yet cross-confirmed.",
+      "metrics": [
+        {
+          "label": "Spotify monthly listeners",
+          "value": "9787",
+          "delta": "+9685",
+          "spark": [
+            102,
+            217,
+            5483,
+            6235,
+            7320,
+            8760,
+            9787
+          ]
+        }
+      ],
+      "spark": [
+        102,
+        217,
+        5483,
+        6235,
+        7320,
+        8760,
+        9787
+      ],
+      "flags": [],
+      "spotify_url": "https://open.spotify.com/artist/6GtsYHPoyiQLBhtMi8MuHe"
+    },
+    {
+      "name": "Asher Shashaty",
+      "genre": "Electronic",
+      "score": 0.52,
+      "maturity": 33,
+      "triggers": [
+        "spotify"
+      ],
+      "why": "Cleared floor on spotify (Spotify monthly listeners +1395). Single platform, not yet cross-confirmed.",
+      "metrics": [],
+      "spark": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "flags": [],
+      "spotify_url": null
+    },
+    {
+      "name": "Stevieknocks",
+      "genre": "Hip Hop",
+      "score": 0.5,
+      "maturity": 33,
+      "triggers": [
+        "spotify"
+      ],
+      "why": "Cleared floor on spotify (Spotify monthly listeners +153). Single platform, not yet cross-confirmed.",
+      "metrics": [],
+      "spark": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "flags": [],
+      "spotify_url": "https://open.spotify.com/artist/2uDB7RhtZg3jHuIhjDHxGe"
+    },
+    {
+      "name": "Ace Flo",
+      "genre": "Hip Hop",
+      "score": 0.5,
+      "maturity": 33,
+      "triggers": [
+        "spotify"
+      ],
+      "why": "Cleared floor on spotify (Spotify monthly listeners +960). Single platform, not yet cross-confirmed.",
+      "metrics": [
+        {
+          "label": "Spotify monthly listeners",
+          "value": "11753",
+          "delta": "+11176",
+          "spark": [
+            577,
+            669,
+            6805,
+            8723,
+            9629,
+            10793,
+            11753
+          ]
+        }
+      ],
+      "spark": [
+        577,
+        669,
+        6805,
+        8723,
+        9629,
+        10793,
+        11753
+      ],
+      "flags": [],
+      "spotify_url": "https://open.spotify.com/artist/3RUxiuXEaPkjXZswkiMNOg"
+    },
+    {
+      "name": "Very Abstract",
+      "genre": "Hip Hop",
+      "score": 0.5,
+      "maturity": 33,
+      "triggers": [
+        "spotify"
+      ],
+      "why": "Cleared floor on spotify (Spotify monthly listeners +975). Single platform, not yet cross-confirmed.",
+      "metrics": [
+        {
+          "label": "Spotify monthly listeners",
+          "value": "24213",
+          "delta": "+15114",
+          "spark": [
+            9099,
+            9308,
+            16868,
+            19410,
+            21157,
+            23238,
+            24213
+          ]
+        }
+      ],
+      "spark": [
+        9099,
+        9308,
+        16868,
+        19410,
+        21157,
+        23238,
+        24213
+      ],
+      "flags": [],
+      "spotify_url": "https://open.spotify.com/artist/3CAvL0N53HUQydZzBkgPvo"
+    },
+    {
+      "name": "Prince Ocki",
+      "genre": "Hip Hop",
+      "score": 0.0,
+      "maturity": 33,
+      "triggers": [
+        "spotify"
+      ],
+      "why": "Cleared floor on none (no platform cleared its floor yet). No platform confirmed yet.",
+      "metrics": [],
+      "spark": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "flags": [],
+      "spotify_url": "https://open.spotify.com/artist/5C67406WTa5GLsU4ZhpRTX"
+    },
+    {
+      "name": "Eve Lauren",
+      "genre": "Electronic",
+      "score": 0.0,
+      "maturity": 33,
+      "triggers": [
+        "spotify"
+      ],
+      "why": "Cleared floor on none (no platform cleared its floor yet). No platform confirmed yet.",
+      "metrics": [],
+      "spark": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "flags": [],
+      "spotify_url": "https://open.spotify.com/artist/0VGRIovFmOFenDy7hnwr7g"
+    },
+    {
+      "name": "andrew reed & the liberation",
+      "genre": "Rock",
+      "score": 2.49,
+      "maturity": 33,
+      "triggers": [
+        "spotify"
+      ],
+      "why": "Cleared floor on spotify (Spotify monthly listeners +672). Single platform, not yet cross-confirmed.",
+      "metrics": [
+        {
+          "label": "Spotify monthly listeners",
+          "value": "3243",
+          "delta": "+2784",
+          "spark": [
+            459,
+            429,
+            405,
+            1486,
+            1926,
+            2571,
+            3243
+          ]
+        }
+      ],
+      "spark": [
+        459,
+        429,
+        405,
+        1486,
+        1926,
+        2571,
+        3243
+      ],
+      "flags": [],
+      "spotify_url": "https://open.spotify.com/artist/2Lx7DnbB5qyt7uwV8yeHwE"
+    },
+    {
+      "name": "Sophia Sugarman",
+      "genre": "Electronic",
+      "score": 2.37,
+      "maturity": 33,
+      "triggers": [
+        "spotify"
+      ],
+      "why": "Cleared floor on spotify (Spotify monthly listeners +4631). Single platform, not yet cross-confirmed.",
+      "metrics": [
+        {
+          "label": "Spotify monthly listeners",
+          "value": "43211",
+          "delta": "+22325",
+          "spark": [
+            20886,
+            20544,
+            24650,
+            29764,
+            33609,
+            38580,
+            43211
+          ]
+        }
+      ],
+      "spark": [
+        20886,
+        20544,
+        24650,
+        29764,
+        33609,
+        38580,
+        43211
+      ],
+      "flags": [],
+      "spotify_url": "https://open.spotify.com/artist/4FMHVCDosmwVWwsMsSdBPz"
+    },
+    {
+      "name": "MyGuyMars",
+      "genre": "Hip Hop",
+      "score": 2.35,
+      "maturity": 33,
+      "triggers": [
+        "spotify"
+      ],
+      "why": "Cleared floor on spotify (Spotify monthly listeners +3588). Single platform, not yet cross-confirmed.",
+      "metrics": [
+        {
+          "label": "Spotify monthly listeners",
+          "value": "47082",
+          "delta": "+19114",
+          "spark": [
+            27968,
+            30375,
+            35100,
+            39362,
+            41523,
+            43494,
+            47082
+          ]
+        }
+      ],
+      "spark": [
+        27968,
+        30375,
+        35100,
+        39362,
+        41523,
+        43494,
+        47082
+      ],
+      "flags": [],
+      "spotify_url": "https://open.spotify.com/artist/0oH03sDsnxkWo7jFl6nZQ6"
+    },
+    {
+      "name": "Mattie Pruitt",
+      "genre": "Country",
+      "score": 2.17,
+      "maturity": 33,
+      "triggers": [
+        "spotify"
+      ],
+      "why": "Cleared floor on spotify (Spotify monthly listeners +7312). Single platform, not yet cross-confirmed.",
+      "metrics": [
+        {
+          "label": "Spotify monthly listeners",
+          "value": "44952",
+          "delta": "+36786",
+          "spark": [
+            8166,
+            8708,
+            22334,
+            27267,
+            32120,
+            37640,
+            44952
+          ]
+        }
+      ],
+      "spark": [
+        8166,
+        8708,
+        22334,
+        27267,
+        32120,
+        37640,
+        44952
+      ],
+      "flags": [],
+      "spotify_url": "https://open.spotify.com/artist/0RpLfoG8oYbdNAAxlr0mWb"
+    },
+    {
+      "name": "Braedon Barnhill",
+      "genre": "Country",
+      "score": 2.1,
+      "maturity": 33,
+      "triggers": [
+        "spotify"
+      ],
+      "why": "Cleared floor on spotify (Spotify monthly listeners +4193). Single platform, not yet cross-confirmed.",
+      "metrics": [
+        {
+          "label": "Spotify monthly listeners",
+          "value": "37712",
+          "delta": "+21583",
+          "spark": [
+            16129,
+            20177,
+            24259,
+            27361,
+            30205,
+            33519,
+            37712
+          ]
+        }
+      ],
+      "spark": [
+        16129,
+        20177,
+        24259,
+        27361,
+        30205,
+        33519,
+        37712
+      ],
+      "flags": [],
+      "spotify_url": "https://open.spotify.com/artist/6havQH2xpTlwoGLDDTgd49"
+    },
+    {
+      "name": "Michael Anthony",
+      "genre": "Electronic",
+      "score": 1.7,
+      "maturity": 33,
+      "triggers": [
+        "spotify"
+      ],
+      "why": "Cleared floor on spotify (Spotify monthly listeners +3355). Single platform, not yet cross-confirmed.",
+      "metrics": [
+        {
+          "label": "Spotify monthly listeners",
+          "value": "24732",
+          "delta": "+19660",
+          "spark": [
+            5072,
+            5275,
+            12998,
+            16513,
+            18839,
+            21377,
+            24732
+          ]
+        }
+      ],
+      "spark": [
+        5072,
+        5275,
+        12998,
+        16513,
+        18839,
+        21377,
+        24732
+      ],
+      "flags": [],
+      "spotify_url": "https://open.spotify.com/artist/0r1QQkA6kpxwS05Ayjnfd2"
+    },
+    {
+      "name": "Dustin Husain",
+      "genre": "Electronic",
+      "score": 1.55,
+      "maturity": 33,
+      "triggers": [
+        "spotify"
+      ],
+      "why": "Cleared floor on spotify (Spotify monthly listeners +1458). Single platform, not yet cross-confirmed.",
+      "metrics": [
+        {
+          "label": "Spotify monthly listeners",
+          "value": "14512",
+          "delta": "+9641",
+          "spark": [
+            4871,
+            4956,
+            8105,
+            9520,
+            10779,
+            13054,
+            14512
+          ]
+        }
+      ],
+      "spark": [
+        4871,
+        4956,
+        8105,
+        9520,
+        10779,
+        13054,
+        14512
+      ],
+      "flags": [],
+      "spotify_url": "https://open.spotify.com/artist/0klIzsZViJgJcCX4Wh0qKl"
+    },
+    {
+      "name": "Markis Precise",
+      "genre": "Hip Hop",
+      "score": 1.39,
+      "maturity": 33,
+      "triggers": [
+        "spotify"
+      ],
+      "why": "Cleared floor on spotify (Spotify monthly listeners +3445). Single platform, not yet cross-confirmed.",
+      "metrics": [
+        {
+          "label": "Spotify monthly listeners",
+          "value": "25999",
+          "delta": "+22015",
+          "spark": [
+            3984,
+            4344,
+            12503,
+            12503,
+            19421,
+            22554,
+            25999
+          ]
+        }
+      ],
+      "spark": [
+        3984,
+        4344,
+        12503,
+        12503,
+        19421,
+        22554,
+        25999
+      ],
+      "flags": [],
+      "spotify_url": "https://open.spotify.com/artist/2diXgS9TzzzDVmAgBiACRM"
+    }
+  ]
+}

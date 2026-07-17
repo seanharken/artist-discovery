@@ -1,0 +1,2624 @@
+{
+  "date": "2026-07-17",
+  "candidate_count": 245,
+  "candidates": [
+    {
+      "uuid": "e1789fa4-636d-4b54-8e43-e7afc07f19d6",
+      "name": "Lyn Williams",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "7d61c50e-a719-4558-8e79-367bb0f2bd58",
+      "name": "Dans",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "cd27cce9-f060-4cde-a37f-aecfb2e49039",
+      "name": "RUDYARD",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "109521ff-4f7d-4398-b190-420fe4c71aeb",
+      "name": "SaMw",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "05e8f2e9-11c7-4ac4-ba08-1e7a9e83367d",
+      "name": "Gilgu",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "8c39b083-76dd-44fd-9005-57798811aa61",
+      "name": "Steven James Wylie",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "cff6f1a5-11cc-4ff7-be89-e22e51ab0c6b",
+      "name": "andrew reed & the liberation",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "3fada10b-0812-4be0-bd21-96584719725a",
+      "name": "D W/ The Gumby",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "1564950f-7806-40dc-b240-f7a4f64339ac",
+      "name": "Mvsno",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "fcbcaa83-dad7-4edd-a378-e85e5f1c3da6",
+      "name": "Ariel Alejandro",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "19034129-5558-4d7e-93fa-e2020d21dbce",
+      "name": "Mezzoa",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "1bc5f3f2-723e-4e4c-8da7-39b6eb052c56",
+      "name": "Liryc Dealer",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "5e928549-5dbd-4b79-adee-8309e7b97da1",
+      "name": "Dysgnostic",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "84b12e7b-6034-42e1-bc5b-6568d5d701f6",
+      "name": "MeanOwls",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "646d7f92-f9ca-4fd4-992f-5e16c0e69d59",
+      "name": "WSTLNDR",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "72089761-2e30-4dca-99f8-9dd52a12a946",
+      "name": "Stevieknocks",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "6bab4496-1a2a-4b43-b1a0-20e7a76cdf84",
+      "name": "FANTASMA DI ME",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "d9733016-d0c7-411d-bfad-ffbb0b45fd38",
+      "name": "Chaton",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "54f965e4-9a7d-4c35-8e0c-02a7a8732057",
+      "name": "Tenny TAP",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "57667806-640e-4e30-ae2f-033f3f0ba250",
+      "name": "Jack Frost",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "88663910-1cf6-4330-a76e-fee150b29f6a",
+      "name": "Miki Yui",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "f1d83a7a-21b7-48c3-ad98-f56eb6955783",
+      "name": "zieli\u0144ski",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "b28138db-bf15-43bd-a0a2-13f3efdf6ad0",
+      "name": "La NH",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "d1671d53-9763-4c52-82d5-45721fbfc69c",
+      "name": "Sulo",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "21174dce-05ba-4d61-a5ef-1e5d6e5496f9",
+      "name": "Palwinder",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "895cdd38-bfec-449b-a6ae-0df91b93f94e",
+      "name": "Gaba Ko\u015bciug",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "2eacf3a6-b93f-4172-b38d-142bb1d4961f",
+      "name": "Ola Elannor",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "cf605f24-f82f-4a57-8764-5546e4ae6371",
+      "name": "Saint",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "4d1cf05c-9d19-4112-b54e-caff3a5e7b83",
+      "name": "Lorina Gore",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "46d194cd-27b7-455d-a9d2-e76adf00fe48",
+      "name": "RDK",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "544f9549-5548-4008-8326-b1712107d327",
+      "name": "Electric Lady",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "0ee4491e-3700-4205-8fa2-5f14d89480a6",
+      "name": "Athina Xrisantidou",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "26f17bca-e171-40d6-b79a-57b3bd4a22bc",
+      "name": "Ana Andrzejewska",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "66fe4768-7d11-491a-bf8e-8ffc4062eaf6",
+      "name": "Gianmaria Veronese",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "e0f59322-ecd7-4085-b2cb-b4c3d7b97633",
+      "name": "MANIFEST",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "3bbef41c-befe-4827-a8b7-4a55856e6e78",
+      "name": "Marie Sophie Hauzel",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "4dc9b94d-f7c7-43b4-a479-677a174b32b4",
+      "name": "Voxyzie Bone",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "7f03caaa-0508-490b-aa2f-1450a9be3e84",
+      "name": "W1nter",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "feb7f92f-f4f3-44d9-bad8-832526b125f0",
+      "name": "Bart van Dishoeck",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "8fa1972f-957d-4150-9f24-9daeae677c86",
+      "name": "Dakota Poorman",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "a1b72a63-5345-43b2-9978-fcf7d75440d3",
+      "name": "DJ VGS",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "UMG",
+          "id": 1,
+          "name": "Universal Music Group"
+        }
+      ]
+    },
+    {
+      "uuid": "ae2a0aa1-773c-451b-bfdd-6a8985e5b7f6",
+      "name": "Uccello",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "59005237-df72-4d71-baf6-f0d7524f2268",
+      "name": "MONET",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "SME",
+          "id": 2,
+          "name": "Sony Music Entertainment"
+        },
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "c4eaae0d-7e40-4c28-8365-a0fcbc760c8d",
+      "name": "JF El Guerrero",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "70f53e76-7e80-473d-b383-fa7dabcd32c2",
+      "name": "JULIA DANTT",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "b4bd0d26-b480-4576-98f4-0bf91a457b9b",
+      "name": "jakehinze",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "59860fab-13d9-4137-b48c-2c5803d7020d",
+      "name": "Felix Arndt",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "1f4cd608-3d5c-4a93-9e47-5e894331e55a",
+      "name": "Los Kendy",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "cd075b4a-b641-4257-88fc-08817d8c8d24",
+      "name": "Yung Delic",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "97884630-05f0-4e86-b67a-d333d1a64289",
+      "name": "Arise from worms",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "9e0f4dbd-1560-486e-8aa9-8e9c5483a307",
+      "name": "Victor Arruda",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "d62bc11a-1ec3-4664-ba0f-97eebf51ea13",
+      "name": "Morgan Guerin",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "3849c834-ddbc-431b-b60c-9b4e78ad0477",
+      "name": "Joe Monteiro",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "bdbefc25-614d-45c5-a1be-1d635373a5ed",
+      "name": "Matthew Swann",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "8e18d594-9e2d-40e8-b758-ecb81cc5c7be",
+      "name": "Happenstance Singers",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "6eb56e48-807c-422f-a73f-115436d816a7",
+      "name": "J A Monteiro",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "11c85163-36d4-4acc-90eb-f695afda71cb",
+      "name": "bennz",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "7da0c337-32f6-48c6-ba76-fcfc45fa5ece",
+      "name": "Anita Hofmann",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "WMG",
+          "id": 3,
+          "name": "Warner Music Group"
+        },
+        {
+          "display_name": "UMG",
+          "id": 1,
+          "name": "Universal Music Group"
+        },
+        {
+          "display_name": "BMG",
+          "id": 4,
+          "name": "BMG"
+        }
+      ]
+    },
+    {
+      "uuid": "39c522c4-0d06-4c3d-92aa-75c6fad22dcc",
+      "name": "Michael J Sheehy",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "ea76f2a1-ad43-4cd3-9829-9eb1ef4bc604",
+      "name": "\u0e0b\u0e2d\u0e22\u0e1a\u0e2d\u0e22 \u0e2d\u0e32\u0e23\u0e4c\u0e2a\u0e22\u0e32\u0e21",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "c210e2b6-3508-4f3f-99a7-a9a432f3707f",
+      "name": "Star Band de Luis Alfredo",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "60999c40-d851-408f-aadc-065b5be60238",
+      "name": "Adam Rubenstein",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "701874b2-6c5e-4d6a-bf26-e0f7adfd3c0e",
+      "name": "Tj Dairo",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "33938d2b-762d-4055-be20-60ac4a47e74b",
+      "name": "MERLO!",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "21ffa5f9-88c7-4061-a4ff-227a88b26dd9",
+      "name": "Lviv National Philharmonic Symphony Orchestra",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "be20a626-9d22-40b5-b1b6-15a3a0785587",
+      "name": "Arnav Maggo",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "268e9467-7853-4a99-aed0-d71b0a0fec84",
+      "name": "Brian Irvine",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "ec7f4e50-f37d-4c91-86f2-3d8a2cea6fa5",
+      "name": "Patric Scott",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "c78bc788-f4c2-458c-b831-416d10174b64",
+      "name": "Blue Number Seven",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "e6ee293b-ee22-40a7-9a76-a3b4b8ca6965",
+      "name": "WINNING",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "cc8c08d1-1d16-4dbb-a607-05d2b1a76ff3",
+      "name": "Kai Rosenkranz",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "3d53aaf2-ea2c-4a4d-90de-70eddb9391be",
+      "name": "Radie Peat",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "2078ad1b-82dc-4ad2-90cb-ba75063c6b97",
+      "name": "Marko Letonja",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "WMG",
+          "id": 3,
+          "name": "Warner Music Group"
+        }
+      ]
+    },
+    {
+      "uuid": "ae9c6a7f-afd1-4c06-a2e4-bdbd1fc280bc",
+      "name": "windscrib",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "0c466fe4-d2ff-4110-9c1c-3e0717511e01",
+      "name": "Oulu Sinfonia",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "0ca9a667-eb28-4b56-b2d1-7e5f53fd12d1",
+      "name": "HXNTERZX",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "761beb3d-f75f-43d2-9043-a48e5222cfd5",
+      "name": "Anushka Chkheidze",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "3e113010-0869-4045-ab1b-38b8095d38b0",
+      "name": "Elva Suyan",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "UMG",
+          "id": 1,
+          "name": "Universal Music Group"
+        },
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "12e5ad50-047a-45ca-8910-a4284798f9b0",
+      "name": "Vilane",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "109b24b1-49ab-4950-8473-9d5f3a99ec67",
+      "name": "10to2",
+      "tier": "Tier 0 - Emerging",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "7ffaa7d0-7177-4c5a-9ddb-ce914e67735e",
+      "name": "Crown Vic",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "30144aca-ee1f-4875-a16b-d7dcb54179ea",
+      "name": "Prince Ocki",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "9a7ffca9-5ac8-43dd-af03-935b79863f15",
+      "name": "De confident Dj",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "66f5390e-b2a5-45f8-b780-08a81e09d5fa",
+      "name": "Sienicki",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "UMG",
+          "id": 1,
+          "name": "Universal Music Group"
+        }
+      ]
+    },
+    {
+      "uuid": "72a18fef-2f80-4c18-a234-d7593fd02a71",
+      "name": "George Hales",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "1e91bb40-bc3b-4028-82fd-08f4a2a1cce0",
+      "name": "Kompos",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "WMG",
+          "id": 3,
+          "name": "Warner Music Group"
+        }
+      ]
+    },
+    {
+      "uuid": "ddaf4aef-a411-4ff2-b1ca-be433f90efd9",
+      "name": "James Ellis Ford",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "2e45e988-0496-406b-a623-62cbaa4b24d8",
+      "name": "Mafia Pemantik Qolbu",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "8af4d10d-e603-46e9-a6f9-596c1e0d6f77",
+      "name": "norbidream",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "2f98384a-76ac-47ac-90ed-c3eb82b494c8",
+      "name": "GXLDmine",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "f395842c-b57c-4fd1-b1be-599d96e9a24f",
+      "name": "Redrago",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "88c02e1b-55b4-4332-b348-b96587e8d00b",
+      "name": "Charlie Luis",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "46671f5a-da9d-4975-b031-50afbc3793d3",
+      "name": "Ace Flo",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "31d4ef69-38be-4a49-8716-67eab2e80763",
+      "name": "De La Plata",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "0d08e466-1362-4547-a494-10115d2fc651",
+      "name": "Binny",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "UMG",
+          "id": 1,
+          "name": "Universal Music Group"
+        }
+      ]
+    },
+    {
+      "uuid": "5e6f813b-a094-4595-9da7-1329d8c9ff4e",
+      "name": "Carren Eistrup",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "1b021dc0-cf9e-4a0c-9a39-c5a0df32b16b",
+      "name": "FR3ADY",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "SME",
+          "id": 2,
+          "name": "Sony Music Entertainment"
+        }
+      ]
+    },
+    {
+      "uuid": "62ee7d88-c278-418f-86d7-e1c8b6fe548b",
+      "name": "Dustin Husain",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "df0a1db3-faaa-456d-9a21-8baff8b35b21",
+      "name": "Incert Coin",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "c8bf2c0d-ec4e-48d0-b2ca-4640f455fb70",
+      "name": "Aaron G.J",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "f484db47-55d4-472f-8c52-43001e1a2666",
+      "name": "Asher Shashaty",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "c27d8947-420d-4bde-b0ec-9800b6327155",
+      "name": "Epic-Music",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "0ddefadc-5c4f-42fc-8f68-560031ca20b8",
+      "name": "Wotts",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "7ed7bb4c-d16a-4087-8251-24fdce17eff1",
+      "name": "Shamoryo",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "17ae40ce-0767-4d48-91e8-d6f47e4b764f",
+      "name": "Campbell King",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "2abe22e1-4c1a-4507-810a-48a5add838df",
+      "name": "Alternate High",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "1bacf2e4-5018-4d79-ac96-3520c80d0d4d",
+      "name": "Hany Shenouda",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "d70a9659-eceb-4d18-94c3-8491b58241c2",
+      "name": "Samica",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "723df61f-0091-4491-9400-99c54aa3d9b8",
+      "name": "Johan Sanabria",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "44e415be-8255-4c08-9872-f5003e6a23c3",
+      "name": "Agushafi",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "da17d53d-02ad-4539-9f00-e9ea0b024162",
+      "name": "Eileen Yo\u6e38\u5b87\u6f7c",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "UMG",
+          "id": 1,
+          "name": "Universal Music Group"
+        },
+        {
+          "display_name": "SME",
+          "id": 2,
+          "name": "Sony Music Entertainment"
+        }
+      ]
+    },
+    {
+      "uuid": "7ca7129b-8575-4849-9f39-13dd1d2e2f67",
+      "name": "Vini Costta",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "81c223b9-73c7-4e36-9aec-f1db6daf79e2",
+      "name": "Pastor Shola Okodugha",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "9ebceb76-fbc1-406e-8191-50538e8c230b",
+      "name": "Kebelem Ferreira",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "ea5ab3c9-130d-4b8b-8c1a-d1cdcfef37e2",
+      "name": "Rico Beats",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "1f029edc-da56-4d4d-9aa8-45d68e19f0a0",
+      "name": "DJ Black Moose",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "WMG",
+          "id": 3,
+          "name": "Warner Music Group"
+        }
+      ]
+    },
+    {
+      "uuid": "b19ef77f-8f85-404d-a0d3-7e093c1c2fe0",
+      "name": "Lilly Hart",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "5d550dd1-d49f-42b7-8e12-a3cb4a1e3666",
+      "name": "Thu\u1eadn Nguy\u1ec5n",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "f776ea7a-e7c7-47b4-9781-e5a25c43cb0b",
+      "name": "Eileen Yo",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "UMG",
+          "id": 1,
+          "name": "Universal Music Group"
+        }
+      ]
+    },
+    {
+      "uuid": "0e3734ab-0eb1-49d9-885c-a7de1e22b953",
+      "name": "sorato",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "2a1b8178-7011-4f04-bc0a-c5a3ab86b046",
+      "name": "J-Lit",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "373fc5c5-7c87-42ab-b867-25aa034e54e5",
+      "name": "Michael Anthony",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "77379395-4e56-45ac-ae9d-6cd384ba7517",
+      "name": "ALEV",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "c55b8f1c-2ec2-411a-b2bd-3072d71b8f62",
+      "name": "Haitch Music",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "ffe1aaf9-73ff-4b06-9ef2-da263df1b34f",
+      "name": "Humanoid",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "9512c850-6f10-4cb0-a41e-b5aa05cd3c00",
+      "name": "Laura B\u0103lan",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "f9bc9fcf-5d6b-4fc2-96f8-f78bc00f3bbc",
+      "name": "Johan Kettenburg",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "cca72eed-7f2f-44fb-9e78-4570239ef33b",
+      "name": "Jaguar Jonze",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "WMG",
+          "id": 3,
+          "name": "Warner Music Group"
+        }
+      ]
+    },
+    {
+      "uuid": "d42ae933-cdbd-4648-b443-2196e6ac6bb0",
+      "name": "Hart Dean",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "170637ef-dd65-4e72-b956-6466f9a27001",
+      "name": "Very Abstract",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "7906d9cc-1c89-4159-bf1f-40f3167df2b3",
+      "name": "Jav\u00e1n",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "ea6873b5-d2c1-4252-8ba1-fe7f53df4399",
+      "name": "Cole Hartley",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "77c16b28-2aa5-4172-bc31-f135404b038f",
+      "name": "Percy 5",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "UMG",
+          "id": 1,
+          "name": "Universal Music Group"
+        }
+      ]
+    },
+    {
+      "uuid": "8f3af985-81a5-42b9-8496-b6263993ab41",
+      "name": "Amneliz Rivets",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "2d45d7ee-9687-4335-8a62-8c48a642a9ce",
+      "name": "T\u00f9ng Mint",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "7d3039a8-dd6e-423b-b370-ded6b6693698",
+      "name": "Marek Koscikiewicz",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "61e959ff-2b36-4cf1-8de6-76c9c5e77cea",
+      "name": "Michael Wandmacher",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "f438027f-84db-4153-a743-2a7dbb7ce88f",
+      "name": "Mountain dnb",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "a14a964d-a681-4a03-adc4-00624c86e2d7",
+      "name": "TWOEF",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "e545d266-a814-456e-8742-6c50f067de24",
+      "name": "IkeN",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "76bff54a-9005-4bd5-aeb4-dbaa85a79277",
+      "name": "Luis Malave",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "26c685e7-2858-4d08-9fa7-981c24ef5ca9",
+      "name": "Gyan Riley",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "1e1f16d1-c7ad-4def-8b31-283a00b964f3",
+      "name": "Flawin808",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "a140b8cd-c42b-47ca-a789-008c803e05fc",
+      "name": "Alex Klingle",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "19686aaf-87a3-406e-b8ce-3d7c62c05e78",
+      "name": "REVLIN",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "6c900f33-3c10-4021-ae32-4ccc50eadf9a",
+      "name": "Dayshawnx",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "SME",
+          "id": 2,
+          "name": "Sony Music Entertainment"
+        }
+      ]
+    },
+    {
+      "uuid": "b0b1a223-8167-4fce-9e2e-1170b2308265",
+      "name": "Amora Lemos",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "SME",
+          "id": 2,
+          "name": "Sony Music Entertainment"
+        },
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "2792b2b6-c7ff-4037-bb00-f8f41f1787e0",
+      "name": "ZER\u00d8 PHASE",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "661868b6-bae1-4060-a7d7-3247425b70eb",
+      "name": "Markis Precise",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "afa71362-2d72-4bcd-a783-0967e37096ab",
+      "name": "Ward Stetson",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "3874e156-929e-499f-944f-b5cf5b8d39f3",
+      "name": "L\u00ea Xu\u00e2n Ti\u1ec1n",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "c4ecb8d9-2964-47b3-8a65-9226d9477b01",
+      "name": "MARQ",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "31987877-a7c1-4c9d-b7e2-f9d21a678338",
+      "name": "Luster",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "7ad114a5-5e26-47b9-9e97-e5c5e520907a",
+      "name": "Andy Torres",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "1bc44f64-620e-4365-9ce9-1f19ad17a3d5",
+      "name": "Arkow",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "b5283bdc-4cad-44ed-b11c-1ee0b00a940f",
+      "name": "Ph\u00f9ng Minh C\u01b0\u01a1ng",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "2287a3be-15a3-4d2e-a068-0fbff4e59809",
+      "name": "Susie Vanner",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "f218bf1d-7c83-4400-9bf3-333455f020a7",
+      "name": "maja kemper",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "c1ee2d8d-5cf6-42b2-94b8-29ce170b9c82",
+      "name": "Lane Hall",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "346c2a20-6d26-4c66-b36f-872d4defffd6",
+      "name": "Small S.P",
+      "tier": "Tier 1 - Developing",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        },
+        {
+          "display_name": "UMG",
+          "id": 1,
+          "name": "Universal Music Group"
+        }
+      ]
+    },
+    {
+      "uuid": "4e405f2c-12d8-46e3-b87c-1b4c5d50e33b",
+      "name": "Regufe",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "ba34256f-7858-4001-93ea-a873c05bbeb7",
+      "name": "Zelcok Kp",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "468e0825-c4d5-433a-8ce7-888ddb148b36",
+      "name": "TSNR",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "a44291d3-d847-4732-8687-4b17ce147af3",
+      "name": "Lunari Veil",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "a231532b-f750-441f-8b81-dc0b5d272919",
+      "name": "CHEAR NATHAPHON",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "bd1296b1-5772-4023-b578-dd114126a0a4",
+      "name": "Inkosi Yamagcokama",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "UMG",
+          "id": 1,
+          "name": "Universal Music Group"
+        },
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "d2451a36-b536-4978-97a2-f99e5907257a",
+      "name": "BABAL",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "80fd44f5-d579-4244-8f41-fca1e6897909",
+      "name": "mor2dekai",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "18c18d08-f6da-4d18-80c3-b62610ee94e1",
+      "name": "T\u00d8NY",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "36f9dcca-fba7-49e7-88f1-2f79186631a6",
+      "name": "Aditya Kalway",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "ca6d7690-504c-4198-8d12-188d57e80e91",
+      "name": "Walid ai",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "b24307ff-b2b9-4a08-b3a6-de9f08ce6727",
+      "name": "Nonye Toria",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "17b0e31f-8563-4ba2-b020-a1558f58a65e",
+      "name": "Gray Cosmo",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "b53266d4-c2bd-4a17-9a09-591054b8f188",
+      "name": "MAGNUS ROCKABILLY",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "fffd1d17-4938-42be-936f-3bba09d1a95c",
+      "name": "\u0110\u00f4ng H\u00f9ng",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "ff3aac58-b898-4c49-bb0a-f6ca44f43920",
+      "name": "THO",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "728000ef-0d1d-4a54-b494-4be705ef6172",
+      "name": "Maurillo",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "c2bbdae5-20d2-44e2-947e-4b2a1fadfa54",
+      "name": "Lambadeixon",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "360690c5-d6f7-46e2-aa98-7ac068ffbcdc",
+      "name": "Rackelle",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "84c8d748-7d49-41a0-9d70-4cc54590fb1c",
+      "name": "El Zombi15",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "8108ca04-4e19-4499-baf7-0cebfdbfac84",
+      "name": "The Institute of Quackology",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "7485502b-65e1-42fb-884c-692e748942df",
+      "name": "Jack-O",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "UMG",
+          "id": 1,
+          "name": "Universal Music Group"
+        }
+      ]
+    },
+    {
+      "uuid": "7b46a610-07f1-4896-b7ad-936d9c09134c",
+      "name": "Marilyn Oquendo",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "4ed2d4b1-e93f-4992-bff3-18e31ebbb598",
+      "name": "Julius Mike",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "d9b07a19-d0e8-48d5-baf7-b8c5cfa588f2",
+      "name": "Eve Lauren",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "8377aefb-86b9-49e7-8deb-3539d6b54fa4",
+      "name": "Braedon Barnhill",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "8d9c10ed-d575-41a1-933e-be5debad3f99",
+      "name": "PAAK",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        },
+        {
+          "display_name": "UMG",
+          "id": 1,
+          "name": "Universal Music Group"
+        },
+        {
+          "display_name": "WMG",
+          "id": 3,
+          "name": "Warner Music Group"
+        }
+      ]
+    },
+    {
+      "uuid": "e7d7ca9a-1763-4604-8201-0e902cb3f3f0",
+      "name": "Diego Val",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "8a1519f2-4b71-40f4-8c37-c290fbe17c8c",
+      "name": "Christophe Cravero",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "c8273357-3e75-4d28-840b-6cd4e90999d1",
+      "name": "Dj Marcos Junior",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "13e17c3b-8aa9-4d37-aa12-5567930de797",
+      "name": "Simran Bumrah",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "4f9453d7-ed56-48cc-9cab-7f226756a15a",
+      "name": "Dhira Gill",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "ea21a0a2-341e-4563-b183-184e78538de0",
+      "name": "Y\u00f4rkk",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "e5fb2934-319d-42df-89c3-df690337ccfa",
+      "name": "Ernest Dashawn Ferguson",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "31b3ef90-459f-48bc-9969-48771b1ae1f4",
+      "name": "\u5e8a\u54e5",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "UMG",
+          "id": 1,
+          "name": "Universal Music Group"
+        }
+      ]
+    },
+    {
+      "uuid": "ffd92df2-75f8-4539-940e-9208279dc187",
+      "name": "Faiolli",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "UMG",
+          "id": 1,
+          "name": "Universal Music Group"
+        }
+      ]
+    },
+    {
+      "uuid": "d8552c12-c8a9-4f68-928a-6045bdda27df",
+      "name": "Sutrio D'jocks",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "fd09df93-1079-4e6d-8ea5-f9d2cbcdb3c0",
+      "name": "Kkeda",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "037b85c1-9944-4744-9e4e-6618c015af87",
+      "name": "Cepe",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "92166919-06d3-4ec9-a3f5-bb0f7627ec08",
+      "name": "\u00d6zkan U\u011fur",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "58b9fb24-6dd8-4bc3-9439-d02d5472753b",
+      "name": "Chris Hype",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "7cd461a8-6344-479e-ae82-97edc7068cd4",
+      "name": "Mattie Pruitt",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "BMG",
+          "id": 4,
+          "name": "BMG"
+        }
+      ]
+    },
+    {
+      "uuid": "046eb782-26be-42e0-b37b-044a1c167c5c",
+      "name": "Evelyn Holmes",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "b23997ec-d359-4ac6-93bb-fcb0700755b1",
+      "name": "Raffa Augusto",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "074285c6-e679-45dd-857b-fe85340b9bd0",
+      "name": "Gonzalo Martinez",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "69fa576e-2bc1-4ec1-ba29-72f010853b02",
+      "name": "Craixus",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "7c2606eb-248b-4dbc-b9a1-84804a6d46c6",
+      "name": "Ju Diniz",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "UMG",
+          "id": 1,
+          "name": "Universal Music Group"
+        },
+        {
+          "display_name": "WMG",
+          "id": 3,
+          "name": "Warner Music Group"
+        },
+        {
+          "display_name": "SME",
+          "id": 2,
+          "name": "Sony Music Entertainment"
+        },
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "11ceadec-98dd-4bc4-9341-836c0a1b365b",
+      "name": "Wamba",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "8006a05b-062d-4c3f-be4c-b0067c13fe0e",
+      "name": "Gruesome Lawmaker",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "f09fd826-8e74-42b6-bc1f-bb35e6892607",
+      "name": "Sophia Sugarman",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "c1ac4d46-7950-4f64-8f05-2d26d40b5b9a",
+      "name": "Lumbre Flamenca",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "2304ad0d-071e-4efd-a438-cf5d13073302",
+      "name": "Ho\u00e0ng Rob",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "2d0cfa29-9e8e-4c6f-854b-789c77cc22b2",
+      "name": "Colta Hampton",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "a777d9f2-6c9c-492a-9c6b-1200271c8112",
+      "name": "Orchestronic",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "76c8a3e7-b61e-4c53-bc73-6958c4940346",
+      "name": "Jos Rivers",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "SME",
+          "id": 2,
+          "name": "Sony Music Entertainment"
+        }
+      ]
+    },
+    {
+      "uuid": "01778a37-da8e-45ba-a6b2-2db2b7582350",
+      "name": "Manlikevision",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        },
+        {
+          "display_name": "SME",
+          "id": 2,
+          "name": "Sony Music Entertainment"
+        }
+      ]
+    },
+    {
+      "uuid": "e4221796-a137-41cb-a0cb-45e82465f211",
+      "name": "Arjan Singh",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "bab0c0d5-af86-48f8-9e4f-2561bcc36728",
+      "name": "El Quantum",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "0562a322-1461-4976-8fa9-0aed23901c11",
+      "name": "R3versal",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "bd13da90-a13b-4513-9bd4-a8943040f7f2",
+      "name": "Fendi P",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "WMG",
+          "id": 3,
+          "name": "Warner Music Group"
+        },
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "7ca35532-6c74-493e-a08b-0e619601a104",
+      "name": "Luc Veermeer",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "10efab0c-2d64-47a5-88a3-56e1ce88a386",
+      "name": "Stolen Valor",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "38159b6b-6bbd-4d5d-87b0-09aa8e3b91e0",
+      "name": "Javier Ferreira",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "7639d893-a990-432e-a13c-4939f451ee67",
+      "name": "Mat Eclair",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "8fdae3df-7d71-4013-a3e5-dd68b88cb298",
+      "name": "Leo Rivera",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "c715af70-3bcd-4a6c-af54-acc3861b1277",
+      "name": "GsKan",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "65307432-36b9-4c0d-b1fa-51ddd3bec522",
+      "name": "Jahaan Shah",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "57ea341b-6736-4088-8a9a-4cac728e94c0",
+      "name": "HOTBOX",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "78981788-6e39-4022-a59f-339133da9857",
+      "name": "\u0e2d\u0e07\u0e28\u0e32 \u0e18\u0e35\u0e18\u0e31\u0e0a",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "9f604c24-74c7-43de-af2f-59b71c802ac2",
+      "name": "Flughof",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "e2912fdd-ce08-4235-8af9-b6f0e2c39889",
+      "name": "Daisy*",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "9c02c36f-4f60-4cb4-874e-521de7641d19",
+      "name": "Daisy*",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "f69a68ac-00c5-4f49-ab8a-8c406dbfac31",
+      "name": "LGZ_03",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "1f391126-c982-4212-b960-f251a7c7f48b",
+      "name": "MyGuyMars",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "BMG",
+          "id": 4,
+          "name": "BMG"
+        },
+        {
+          "display_name": "WMG",
+          "id": 3,
+          "name": "Warner Music Group"
+        }
+      ]
+    },
+    {
+      "uuid": "f9ccb391-a006-4df7-aa6b-87006130304a",
+      "name": "GLSH",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "UMG",
+          "id": 1,
+          "name": "Universal Music Group"
+        }
+      ]
+    },
+    {
+      "uuid": "44ed1854-ff55-4fb0-b10c-59dbde0cc7c2",
+      "name": "Jack Swoon",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "3c8e9bbb-7077-4e94-8b59-d5522c6bbe29",
+      "name": "Sky Deep SA",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Big Indie",
+          "id": 5,
+          "name": "Big Indie Labels"
+        }
+      ]
+    },
+    {
+      "uuid": "d08281ac-ebe7-4e6d-86b4-7361d9e8cdda",
+      "name": "Saint Bino",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": [
+        {
+          "display_name": "Other Indie / Unsigned",
+          "id": 6,
+          "name": "Other Indie / Unsigned"
+        }
+      ]
+    },
+    {
+      "uuid": "24159c8b-1652-48bf-aa85-c0087d33c0fb",
+      "name": "Ka Wadhwa",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "41c0eaa1-3589-466b-af8d-7d4b3b10855e",
+      "name": "Joshua Garland",
+      "tier": "Tier 2 - Growth/Graduate Watch",
+      "source": "chart-scan",
+      "labels": null
+    },
+    {
+      "uuid": "f9c0d609-8d6a-43ec-a2bf-db625a89ddfb",
+      "name": "Faith Leazae",
+      "tier": "watchlist",
+      "source": "watchlist"
+    },
+    {
+      "uuid": "e17cffef-89d8-443e-947b-811aba111d80",
+      "name": "Ayegy",
+      "tier": "watchlist",
+      "source": "watchlist"
+    },
+    {
+      "uuid": "c3625737-2597-4090-924a-d898112ff819",
+      "name": "Nirosta Steel",
+      "tier": "watchlist",
+      "source": "watchlist"
+    },
+    {
+      "uuid": "0429fb90-d544-452a-bf54-1ab289b1a678",
+      "name": "Fred again..",
+      "tier": "watchlist",
+      "source": "watchlist"
+    },
+    {
+      "uuid": "c803da56-c6bd-4c61-addb-f1063544a1a2",
+      "name": "UMEK",
+      "tier": "watchlist",
+      "source": "watchlist"
+    }
+  ]
+}
